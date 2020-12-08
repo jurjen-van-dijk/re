@@ -8,6 +8,8 @@
 VER_MAJOR := 1
 VER_MINOR := 1
 VER_PATCH := 0
+
+# Soname ABI version
 VER_ABI   := 1
 
 PROJECT   := re
